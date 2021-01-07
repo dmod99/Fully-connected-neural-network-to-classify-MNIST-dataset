@@ -1,6 +1,6 @@
-The jupyter notebook does the following-
-
 Use google colab.
+
+The jupyter notebook does the following-
 
 1.Load MNIST dataset using custom functions
 
