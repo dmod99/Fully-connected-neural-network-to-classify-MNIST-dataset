@@ -1,5 +1,7 @@
 The jupyter notebook does the following-
+
 Use google colab.
+
 1.Load MNIST dataset using custom functions
 2.Apply suitable transformations and data cleaning techniques.
 3.Flatten the images.
