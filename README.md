@@ -8,4 +8,4 @@ The jupyter notebook does the following-
 
 3.Flatten the images.
 
-4.Build a multi-layered fully connected network (FCN) and use it to perform a classification task on test dataset.
+4.Build a multi-layered Convolutional neural network (CNN) and use it to classify between the 10 numerical digits.
