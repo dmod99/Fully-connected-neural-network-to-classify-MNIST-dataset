@@ -1,3 +1,5 @@
+## CNN to classify digits based on a custom MNIST dataset
+
 The jupyter notebook does the following-
 
 1.Load MNIST dataset using custom functions
